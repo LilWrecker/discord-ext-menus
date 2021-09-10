@@ -9,7 +9,7 @@ An experimental extension menu that makes working with reaction menus a bit easi
 Installing is done purely via git:
 
 ```py
-python -m pip install -U git+https://github.com/Rapptz/discord-ext-menus
+python -m pip install -U git+https://github.com/LilWrrecker/discord-ext-menus
 ```
 
 ## Getting Started
